@@ -1,0 +1,12 @@
+
+@media (max-width: 992px){
+    header{
+        height: auto;
+    }
+}
+@media(max-width: 768px){
+    .header-img{
+        width: 400px;
+        margin: auto;
+    }
+}
