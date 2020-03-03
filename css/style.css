@@ -13,7 +13,10 @@ footer{
 }
 
 .author{
-    font-family: 'Changa';
+    font-family: 'Changa', Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: 'Lobster', Arial, Helvetica, sans-serif;
 }
 .description{
     height: auto;
